@@ -1,0 +1,21 @@
+#search_input{
+    width: 80%;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 40px;
+  
+  
+  }
+  
+  .country{
+    background-color: teal;
+    font-weight: bold;
+    width: 15%;
+    height:40px;
+    margin-top: 30px;
+  }
+
+  #navbar{
+    background-color: bisque;
+    padding-bottom: 30px;
+  }
